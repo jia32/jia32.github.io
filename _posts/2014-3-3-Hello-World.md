@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Day 1
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+After watching some demo projects from previous ECE362 students, we brainstormed and try to find a best way to use as much peripherals as possible while not too hard to finish within 4-5 weeks.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Amoung clock, car and musical instrument, we choose musical instrument. Because it use more peripherals(PWM, RTI, possibly ATD) and was not done a lot previously. It seems a ton of teams have tried clock, it's kind of hard to show creativity. Besides, cars are more of a ME project rather than ECE project, we believe. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Other than simply making a RTI based musical instrument(piano, harp, etc), we decide to put more function to it. After another round of brainstorming and discussion, we have a general idea of implementing "whack a mole" to our instrument as an instructional function, which can teach people play a song while playing the game.
