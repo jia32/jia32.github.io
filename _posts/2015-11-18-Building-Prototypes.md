@@ -9,11 +9,11 @@ Here is the first prototype:
 
 ![_config.yml]({{ site.baseurl }}/images/prototype1.jpg)
 
-Basically, there are three part of this "machine": one part on the top with matrix of LED (3-color-LED) and LED screen, one part on the bottom with 5-6 big push button(with LED inside), and the other part of menu on the left side of pushbuttons, where the user could RESET, SELECT MODE, STOP.
+Basically, there are three part of this "machine": one part on the top with a LCD display and matrix of LEDs (3-color-LED), one part on the bottom with 5-6 big push buttons (with LED inside), and the other part of menu on the left side of pushbuttons, where the user could RESET, SELECT MODE, STOP.
 
 This idea comes from ddr. The basic idea is that there are three modes:
 
-**Party mode:** In this mode, all the LED on top will pop different colors in turns. And if you hit different pushbutton at the bottom, the LED will change color and keep popping. I am thinking if we have time and energy, we could add some filter and with the input of sound (wave), the LEDs could light up showing the waveform.
+**Party mode:** In this mode, all the LED on top will pop different colors at the same time(follow some pre-set pattern). And if you hit different pushbutton at the bottom, the LED will change color and keep popping. I am thinking if we have time and energy, we could add some filter and with the input of sound (wave), the LEDs could light up showing the waveform.
 
 **Game mode:** In this mode, one column of LED will light up from top to bottom in turns, and the LED in the corresponding pushbutton will light up. And if you hit the pushbutton at this time, the “machine" will make a sound of the corresponding pitch/note. In this way, the user could learn to play simple songs.
 
