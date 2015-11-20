@@ -34,7 +34,7 @@ Time for some real whac-a-mole!
 
 Yes, this prototype looks like a real whac-a-mole arcade(but not as colorful). It is pretty self explaintary. 
 
-Basically, there are 9 pushbuttons(with LEDs in them). When they lights up one by one, the user should hit them and it would make a sound of corresponding pitch/note. And if the user is good and hit all the pushbuttons in time, it would make a song.
+Basically, there are 9 pushbuttons(with LEDs in them). When they lights up one by one, the user should hit them and it would make a sound of corresponding pitch/note. And if the user is good and hit all the pushbuttons in time, it would make a song. If we have enough time and energy, we could make hard/easy mode, single hand/dual hand mode, etc.
 
 On the right side of the prototype, there is LCD displaying score/menu. And there is menu where the user could RESET, STOP the game. We have a idea of put a prize inside and set a "gate" on the side of the prototype. And when the user get perfect score, the "gate" would open up and the prize goes out. This seems to be fun and not that hard to achieve.
 
